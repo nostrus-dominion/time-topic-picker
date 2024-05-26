@@ -1,18 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
 
-const topics = [
-  "Geography",
-  "Entertainment",
-  "History",
-  "Arts",
-  "Literature",
-  "Science",
-  "Nature",
-  "Sports",
-  "Leisure"
-];
-
 const getRandomInt = (min, max) => {
   return Math.floor(Math.random() * (max - min + 1)) + min;
 };
