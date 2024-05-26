@@ -10,7 +10,7 @@ const topics = [
   "Technology",
   "Nature",
   "Sports",
-  "Leisure"
+  "Leisure",
   "Fine Art",
 ];
 
